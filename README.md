@@ -137,71 +137,71 @@ BE/domain/feature
 
 ### 메인 페이지
 
-![메인_페이지](/uploads/44e9264e828076a795717794d6279e6c/메인_페이지.gif)
+![메인 페이지](https://github.com/Jsub22/style-finder/assets/77329400/1aa601f7-bcab-40aa-9ce3-3bc3ae514504)
 
 ### 로그인 페이지
 
-![로그인_페이지](/uploads/c5eeb1783cd0cd8b1f04e80955e7d7a4/로그인_페이지.gif)
+![로그인 페이지](https://github.com/Jsub22/style-finder/assets/77329400/80eda219-c9fa-4ef1-b54a-da2807385dba)
 
 ### 코디 페이지
 
 - 코디 조회
 
-![코디_페이지_조회](/uploads/44c6d9e43c156e9a3be05a2c78c48b85/코디_페이지_조회.gif)
+![코디 페이지 조회](https://github.com/Jsub22/style-finder/assets/77329400/1fd1642b-688d-4b3d-9c6c-045da5da9409)
 
 - 피드 작성
 
-![코디_페이지_피드_작성](/uploads/99f8f6ca1c4ae1875e3d080d4c99b99b/코디_페이지_피드_작성.gif)
+![코디 페이지 피드 작성](https://github.com/Jsub22/style-finder/assets/77329400/7625dd5a-8e72-45f6-8645-80b488fb618a)
 
 - 검색 결과에서 옷 피팅해 보기
 
-![코디_페이지_검색_결과에서_옷_가져오기](/uploads/71bc2dc63e77282d169a4e6850fec948/코디_페이지_검색_결과에서_옷_가져오기.gif)
+![코디 페이지 검색 결과에서 옷 가져오기](https://github.com/Jsub22/style-finder/assets/77329400/4f21c381-9010-4ec5-8ed3-be1d3b5da9c6)
 
 - 내부의 내 옷장 모달에서 내 옷 피팅해 보기
 
-![코디_페이지_내_옷장_내부_모달에서_옷_가져오기](/uploads/ebc2c105e6ce9efc4c94bcbacdd2ac3a/코디_페이지_내_옷장_내부_모달에서_옷_가져오기.gif)
+![코디 페이지 내 옷장 내부 모달에서 옷 가져오기](https://github.com/Jsub22/style-finder/assets/77329400/7adfd882-6ccd-4421-b2f1-a86a4e0b4dce)
 
 - 내 옷장에서 내 옷 피팅해 보기
 
-![코디_페이지_내_옷장에서_내_옷_가져오기](/uploads/94325c78af7a4e74902531eabfa2c6ff/코디_페이지_내_옷장에서_내_옷_가져오기.gif)
+![코디 페이지 내 옷장에서 내 옷 가져오기](https://github.com/Jsub22/style-finder/assets/77329400/9b8c40c1-6789-4815-b14a-ca3453b08140)
 
 - 피드에서 세트 피팅해 보기
 
-![코디_페이지_피드에서_옷_가져오기](/uploads/7100f59aa62bf76f09028de8f5310ab4/코디_페이지_피드에서_옷_가져오기.gif)
+![코디 페이지 피드에서 옷 가져오기](https://github.com/Jsub22/style-finder/assets/77329400/312af278-d9e5-4fe2-9f07-49c88937f841)
 
 ### 피드 페이지
 
 - 검색 조회
 
-![피드_페이지_검색_조회](/uploads/24f0c79a327df2a7b486a7ac6993068f/피드_페이지_인기순_조회.gif)
+![피드 페이지 검색 조회](https://github.com/Jsub22/style-finder/assets/77329400/a55b8a5d-3534-46e9-b769-78e7ecc22172)
 
 - 인기순 조회
 
-![피드_페이지_인기순_조회](/uploads/abc839b2a1d652c764761a14a08a0d4d/피드_페이지_내_글_조회.gif)
+![피드 페이지 인기순 조회](https://github.com/Jsub22/style-finder/assets/77329400/141c103e-6f1f-4042-9888-995eaf431cd5)
 
 - 내 글 조회
 
-![코디_페이지_내_작성_조회](/uploads/1e725c154f3d5a38bea60257dc557982/코디_페이지_내_작성_조회.gif)
+![피드 페이지 내 글 조회](https://github.com/Jsub22/style-finder/assets/77329400/8cf84d8a-03c8-41a3-8a55-f046d1b73289)
 
 - 상세 페이지 댓글 및 좋아요
 
-![피드_상세_페이지_댓글_및_좋아요](/uploads/3e2759caf524295b6d45a1de900a4e9f/피드_상세_페이지_댓글_및_좋아요.gif)
+![피드 상세 페이지 댓글 및 좋아요](https://github.com/Jsub22/style-finder/assets/77329400/db021a47-f34c-4131-83b4-939d457429d2)
 
 ### 분석 페이지 - 내 옷장
 
 - 내 정보 관리
 
-![내_옷장_페이지_내_정보_관리](/uploads/640235fcffdd975ec1cb178ed72a0323/내_옷장_페이지_내_정보_관리.gif)
+![내 옷장 페이지 내 정보 관리](https://github.com/Jsub22/style-finder/assets/77329400/c6dc0c71-bf77-4c76-ba0a-ca2ecb6e9140)
 
 - 내 옷 업로드
 
-![내_옷장_페이지_옷_업로드](/uploads/1bc52f810fab2e9d45ef7a401a2c816a/내_옷장_페이지_옷_업로드.gif)
+![내 옷장 페이지 옷 업로드](https://github.com/Jsub22/style-finder/assets/77329400/075e3c7a-840d-4239-8218-41feb0729c3a)
 
 ### 분석 페이지 - 코디 추천
 
 - 취향 키워드 및 추천 코디 조회
 
-![코디_추천_키워드_및_추천_코디_조회](/uploads/7d721a6cf24375139c85ab297e35afd1/코디_추천_키워드_및_추천_코디_조회.gif)
+![코디 추천 키워드 및 추천 코디 조회](https://github.com/Jsub22/style-finder/assets/77329400/d25d3eed-8f16-4d77-a3d7-4b5d4176933a)
 
 <br />
 
